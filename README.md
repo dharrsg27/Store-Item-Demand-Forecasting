@@ -4,7 +4,7 @@
 
 This project focuses on developing an XGBoost model to **forecast sales** for a retail dataset. The dataset comprises **5 years** of daily store-item sales data, covering **50 different items** across **10 store locations**. The main goal is to accurately predict the sales for each item over the next **3 months**.
 
-## **Key Features**
+## **Workflow**
 
 ### **1. Data Analysis**
 - Check for seasonalities or patterns between sales of each item for each store
