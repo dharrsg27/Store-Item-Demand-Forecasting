@@ -1,4 +1,4 @@
-# **Retail Sales Forecasting Project**
+# **Store Item Demand Forecasting Project**
 
 ## **Project Overview**
 
