@@ -19,7 +19,7 @@ This project focuses on developing an XGBoost model to **forecast sales** for a 
 - Trained and fine-tuned an XGBoost model.
 
 ### **3. Evaluation**
-- - Achieved a training RMSE of **6.68** and a validation RMSE of **7.32**
+- Achieved a validation SMAPE or Symmetric Mean Absolute Percentage Error of 12.6206 (For reference, the top 1 in the Kaggle leaderboard is 12.58)
 
 ### **4. Visualization**
 - Plotted sales forecasts over the next 3 months for every item in each store
