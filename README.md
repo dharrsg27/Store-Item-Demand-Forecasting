@@ -12,14 +12,14 @@ This project focuses on developing an XGBoost model to **forecast sales** for a 
 ### **2. Data Preprocessing**
 - Check for missing data.
 - Feature engineering using 'year', 'month', 'day', 'day_of_week', 'day_of_year' and 'week_of_year'.
-- Generating lag features to capture historical sales patterns.
-- Creating rolling statistics for trend analysis.
+- Generated lag features
+- Generated rolling mean features
 
 ### **2. Model Development**
 - Trained and fine-tuned an XGBoost model.
 
 ### **3. Evaluation**
-- Achieved a validation SMAPE or Symmetric Mean Absolute Percentage Error of 12.6206 (For reference, the top 1 in the Kaggle leaderboard is 12.58)
+- Achieved a validation SMAPE or Symmetric Mean Absolute Percentage Error of **12.6206** (For reference, the top 1 in the Kaggle leaderboard is 12.5802)
 
 ### **4. Visualization**
 - Plotted sales forecasts over the next 3 months for every item in each store
