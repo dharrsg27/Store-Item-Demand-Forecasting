@@ -4,6 +4,8 @@
 
 This project focuses on developing an XGBoost model to **forecast sales** for a retail dataset. The dataset comprises **5 years** of daily store-item sales data, covering **50 different items** across **10 store locations**. The main goal is to accurately predict the sales for each item over the next **3 months**.
 
+The dataset can be obtained here: https://www.kaggle.com/competitions/demand-forecasting-kernels-only/overview
+
 ## **Workflow**
 
 ### **1. Data Analysis**
