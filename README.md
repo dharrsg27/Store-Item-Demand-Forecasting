@@ -1,4 +1,4 @@
-# **Store Item Demand Forecasting Project**
+# **Store Item Demand Forecasting with XGBoost**
 
 ## **Project Overview**
 
